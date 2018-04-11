@@ -1,0 +1,25 @@
+
+{
+  "name": "react-native-pick-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "PickList.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adwait-paraskar/RNSearchPicker.git"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "react-native": "^0.41.2",
+    "react-native-vector-icons": "^4.6.0"
+  },
+  "author": "Adwait Paraskar (adwait.paraskar1@gmail.com)",
+  "license": "MIT"
+}
